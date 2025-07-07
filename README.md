@@ -283,7 +283,9 @@ pipeline {
 
 
 ### Create EKS Cluster
-
+````
+https://github.com/itsdevopsprofile/DevOps_Notes/blob/main/Kubernetes/eks-cluster.md
+````
 ### Configure ArgoCD
 
 
