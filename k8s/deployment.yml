@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: myntra
-        image: abhipraydh96/myntraa:23
+        image: devopsprofile/myntra:2
         ports:
         - containerPort: 3000   # Use port 3000
 
