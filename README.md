@@ -4,7 +4,7 @@ Prerequisites:
 
    -  NodeJS application code hosted on a Git repository
    -  Jenkins server
-   -  Kind cluster
+   -  EKScluster
    -  Argo CD
       
 Tools Required:
