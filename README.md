@@ -200,7 +200,7 @@ pipeline {
         DOCKER_CREDENTIALS_ID = 'docker-cred'
         MANIFEST_FILE         = 'k8s/deployment.yml'
         GIT_REPO_NAME         = 'Project-Myntra-Clone'
-        GIT_USER_NAME         = 'abhipraydhoble'
+        GIT_USER_NAME         = 'itsdevopsprofile'
         GIT_EMAIL             = 'abhipraydh96@gmail.com'
     }
 
