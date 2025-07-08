@@ -5,14 +5,14 @@
 
 ## 🔧 Tech Stack
 
-**NodeJS** – Application code
-**Jenkins** – Continuous Integration
-**SonarQube** – Code quality and vulnerability scan
-**Docker** – Containerization
-**DockerHub** – Container image registry
-**ArgoCD** – Continuous Delivery with GitOps
-**EKS (Elastic Kubernetes Service)** – Kubernetes hosting
-**Prometheus & Grafana** – Monitoring and visualization
+- **NodeJS** – Application code
+- **Jenkins** – Continuous Integration
+- **SonarQube** – Code quality and vulnerability scan
+- **Docker** – Containerization
+- **DockerHub** – Container image registry
+- **ArgoCD** – Continuous Delivery with GitOps
+- **EKS (Elastic Kubernetes Service)** – Kubernetes hosting
+- **Prometheus & Grafana** – Monitoring and visualization
 
 ---
 
