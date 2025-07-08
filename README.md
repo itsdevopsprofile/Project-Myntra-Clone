@@ -195,7 +195,7 @@ pipeline {
 
     environment {
         SCANNER_HOME          = tool 'sonar-scanner'
-        DOCKER_IMAGE          = 'myntraa'
+        DOCKER_IMAGE          = 'myntra'
         DOCKER_REGISTRY       = 'abhipraydh96'
         DOCKER_CREDENTIALS_ID = 'docker-cred'
         MANIFEST_FILE         = 'k8s/deployment.yml'
